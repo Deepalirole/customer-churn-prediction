@@ -88,7 +88,8 @@ Page 2: Why They Leave (Funnel view, Key Influencers, tickets by attributes).
 ![image_alt](https://github.com/Deepalirole/customer-churn-prediction/blob/0da659fe08eb6216ef26b9f3fa182fb30fe845a8/Screenshot%202025-08-28%20130719.png)
 
 Page 3: Segments (Contract-wise churn %, avg charges, churn % across tenure).
-
+![image_alt](https://github.com/Deepalirole/customer-churn-prediction/blob/b5062950b1c759beab9a4e125d4db8cf19f28427/Screenshot%202025-08-28%20130737.png
+)
 Page 4: Action Center (Detailed data view with filters and reason codes).
 
 Page 5: ROI Sandbox (What-If simulation using parameters and calculated values).

@@ -85,6 +85,7 @@ Page 1: Executive Overview (KPI cards, churn by contract/internet/location).
 ![image_alt](https://github.com/Deepalirole/customer-churn-prediction/blob/955358c8d55a72403724e731bb4df5225a643564/Screenshot%202025-08-28%20130700.png)
 
 Page 2: Why They Leave (Funnel view, Key Influencers, tickets by attributes).
+![image_alt](https://github.com/Deepalirole/customer-churn-prediction/blob/0da659fe08eb6216ef26b9f3fa182fb30fe845a8/Screenshot%202025-08-28%20130719.png)
 
 Page 3: Segments (Contract-wise churn %, avg charges, churn % across tenure).
 

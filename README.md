@@ -82,6 +82,8 @@ Building the Dashboard
 
 Page 1: Executive Overview (KPI cards, churn by contract/internet/location).
 
+![image_alt](https://github.com/Deepalirole/customer-churn-prediction/blob/955358c8d55a72403724e731bb4df5225a643564/Screenshot%202025-08-28%20130700.png)
+
 Page 2: Why They Leave (Funnel view, Key Influencers, tickets by attributes).
 
 Page 3: Segments (Contract-wise churn %, avg charges, churn % across tenure).

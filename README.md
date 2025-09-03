@@ -91,6 +91,7 @@ Page 3: Segments (Contract-wise churn %, avg charges, churn % across tenure).
 ![image_alt](https://github.com/Deepalirole/customer-churn-prediction/blob/b5062950b1c759beab9a4e125d4db8cf19f28427/Screenshot%202025-08-28%20130737.png
 )
 Page 4: Action Center (Detailed data view with filters and reason codes).
+![image_alt](https://github.com/Deepalirole/customer-churn-prediction/blob/1ed9ad843a4bb38cb18a7511360f16653c65f6fb/Screenshot%202025-08-28%20130803.png)
 
 Page 5: ROI Sandbox (What-If simulation using parameters and calculated values).
 

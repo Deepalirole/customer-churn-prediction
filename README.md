@@ -94,6 +94,7 @@ Page 4: Action Center (Detailed data view with filters and reason codes).
 ![image_alt](https://github.com/Deepalirole/customer-churn-prediction/blob/1ed9ad843a4bb38cb18a7511360f16653c65f6fb/Screenshot%202025-08-28%20130803.png)
 
 Page 5: ROI Sandbox (What-If simulation using parameters and calculated values).
+![image_alt](https://github.com/Deepalirole/customer-churn-prediction/blob/a3662f8a6beb5fee0116559eb061914d8d9bce53/Screenshot%202025-08-28%20130822.png)
 
 Customization
 
